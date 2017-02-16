@@ -7,3 +7,5 @@ Please follow steps bellow to share your tool:
 * Create a README.md file and give a comprehensive description of your tool, including examples of usaage. Also tell others how your tool may help in enabling DevOps in a Pega project. Use [Markdown](https://guides.github.com/features/mastering-markdown/) to make you description look perfect.
 * Add all files that compose your tool.
 * Create a Pull request to merge you changes to master (please find instructions in [GitHub Help](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
+## License
+All contributions to this repository are under the MIT license.
